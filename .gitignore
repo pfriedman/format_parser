@@ -1,13 +1,32 @@
+# bundler config and Gemfile.lock
 /.bundle/
-/.yardoc
 /Gemfile.lock
-/_yardoc/
-/coverage/
-/doc/
-/pkg/
+
+# test coverage results and rspec artifacts
+.rspec_status
 /spec/reports/
-/tmp/
+/coverage/
+
+# IDE/Editor artifacts
+.idea/
+*.sublime-*
+*.swo
+*.swp
+default.vim
+default.vim.lock
+
+# .DS_Store
+.DS_Store
+
+# build caches & artifacts
+/.yardoc
+/_yardoc/
+/doc/
+
+# .gem files
 *.gem
 
-# rspec failure tracking
-.rspec_status
+# other dirs
+/pkg/
+/tmp/
+

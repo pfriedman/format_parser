@@ -161,6 +161,9 @@ Unless specified otherwise in this section the fixture files are MIT licensed an
 - `Shinbutsureijoushuincho.tiff` is obtained from Wikimedia Commons and is Creative Commons licensed
 - `IMG_9266_*.tif` and all it's variations were created by the project maintainers
 
+### WEBP
+- WEBP examples are downloaded from https://developers.google.com/speed/webp/gallery and are licensed under the [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/). 
+
 ### ZIP
 - The .zip fixture files have been created by the project maintainers
 
